@@ -1,0 +1,13 @@
+<header>
+  <div class="banner">
+  Dear International Students, Welcome to the Ithaca Apple Festival!
+  </div>
+  <nav class="res">
+      <a href="#">Introduction</a>
+      <a href="#">Food</a>
+      <a href="#">Event</a>
+      <a href="#">Gifts</a>
+      <a href="#">Map</a>
+      <a href="#">Photo Gallery</a>
+  </nav>
+</header>
